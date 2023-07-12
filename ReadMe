@@ -1,0 +1,7 @@
+
+
+1-conditional or dynamic way.
+2-styled components.
+//style components, definitely a nice package for, well, styling components and ensuring that components really only affect the styles on which you set them up.
+3-CSS modules.
+// CSS Modules is a feature which is only available in projects that are configured to support it because it needs a code transformation that needs to be done before your code runs in the browser.
