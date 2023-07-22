@@ -2,6 +2,9 @@
 ### Simple project testing different ways of styling react app  
 ![Design preview for the CSimple Cards  coding challenge in max react course](./src/assets/project-preview.png)
 
+
+## lessons
+
 1-conditional or dynamic way.
 2-styled components.
 //style components, definitely a nice package for, well, styling components and ensuring that components really only affect the styles on which you set them up.
