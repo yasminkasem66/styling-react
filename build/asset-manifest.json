@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/styling-react/static/css/main.83008394.css",
+    "main.js": "/styling-react/static/js/main.6296affb.js",
+    "index.html": "/styling-react/index.html",
+    "main.83008394.css.map": "/styling-react/static/css/main.83008394.css.map",
+    "main.6296affb.js.map": "/styling-react/static/js/main.6296affb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83008394.css",
+    "static/js/main.6296affb.js"
+  ]
+}
